@@ -3,7 +3,11 @@
 Welcome to the public repo for this course.
 
 Below is the list of assignments and ungraded labs course-wise.
-
+tensorflow==2.7.0
+scikit-learn==1.0.1
+pandas==1.1.5
+matplotlib==3.2.2
+seaborn==0.11.2
 
 ### Want to contribute?
 
